@@ -5,7 +5,7 @@
 #include <QPixmap>
 #include <QIcon>
 
-#define SAVE_PATH "C:\\Users\\79884\\Downloads\\"
+#define SAVE_PATH "C:\\Users\\...\\" // Your custom path here
 #define FILE_NAME "screenshot"
 
 MainWindow::MainWindow(QWidget *parent)
